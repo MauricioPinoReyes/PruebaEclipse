@@ -6,5 +6,7 @@ public class EjemploGit {
 		System.out.println("Primer commit");
 		
 		String variable="variable";
+		
+		System.out.println("Usuario");
 	}
 }
